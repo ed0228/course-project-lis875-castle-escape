@@ -81,5 +81,3 @@ Standard Libraries: turtle, time, random, os, re
 No external pip packages are required.
 
 Created for LIS875: Technical Foundations of Information Science.
-
-Author：Annacy Yan
